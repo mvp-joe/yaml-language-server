@@ -1,0 +1,1 @@
+{"version":3,"file":"yamlFormatter.js","sourceRoot":"","sources":["../../../../src/languageservice/services/yamlFormatter.ts"],"names":[],"mappings":"AAAA;;;;gGAIgG;AAChG,YAAY,CAAC;AASb,MAAM,OAAO,aAAa;IAA1B;QACU,qBAAgB,GAAG,KAAK,CAAC;IAQnC,CAAC;IANQ,SAAS,CAAC,YAA8B;IAC/C,CAAC;IAEM,MAAM,CAAC,QAAsB,EAAE,OAAmD;QACvF,OAAO,EAAE,CAAA;IACX,CAAC;CACF"}
